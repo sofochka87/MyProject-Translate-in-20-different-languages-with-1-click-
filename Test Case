@@ -1,0 +1,15 @@
+LOST in Translation
+
+Translation in 20 different languages
+Check functionality of Web-site
+Test case: 
+1. Open browser
+2. Go to "http://collinsdictionary.com/us/translator"
+3. Insert to input box
+4. Select language
+5. Click Translate
+6. Print out Result 
+7. Create text file with 20 different languages(keywords)
+8. Create FileReader class
+9. Insert  20 keywords(one by one) to input box
+10. Click translate 
